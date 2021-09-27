@@ -14,4 +14,7 @@ you can see the aa and AAV last sample for a better understanding
 
 and we measured accuracy, F1score, recall, and precision
 
+# dataset link
+you can download the dataset here: https://drive.google.com/file/d/1Iq6Ufyngkb8RpsGB4OPX5Z3amP12-kJ9/view?usp=sharing
+
 
